@@ -1,0 +1,6 @@
+本工具用于对比两个文件夹中文档的内容是否相同。
+
+步骤：
+1，把两组数据分别拷入到table_data_new和table_data_old文件夹。
+2，python3运行compare_txt.py 文件。
+3，在result文件夹中生成html对比结果。
